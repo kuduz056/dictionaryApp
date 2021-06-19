@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+    display: block;
+    text-align: center;
+    position: relative;
+    top:4.5em;
+}
+#header{
+    font-size: 3em;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input{
+    height: 2em;
+    
+}
+section.second{
+    font-size: 1em;
+    font-weight: bolder;
+}
